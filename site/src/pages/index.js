@@ -38,10 +38,10 @@ const IndexPage = () => {
             </h3>
           </div>
           <Footer />
-          {/* <Navbar />
-        <Hero />
+
+        {/* <Hero />
         <AboutBook />
-        <Footer /> */}
+        <Footer />  */}
         </SectionWrapper>
       </Layout>
     </>
